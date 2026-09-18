@@ -70,19 +70,9 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 
 ## GitHub Analytics
 
-## GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AyushSGO07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Ayush's GitHub Stats" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=AyushSGO07&theme=tokyonight&hide_border=true&background=0D1117" alt="Ayush's Contribution Streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSGO07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Ayush's Top Languages" />
+<img src="https://streak-stats.demolab.com?user=AyushSGO07&theme=tokyonight&hide_border=true&background=0D1117" alt="Ayush's GitHub Contribution Streak" />
 
 </div>
 
