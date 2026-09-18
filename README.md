@@ -18,7 +18,7 @@
 
 ## About Me
 
-I am an AI/ML Engineer with a background in design and motion graphics. My work lies at the intersection of engineering and creativity—whether it's training predictive models, building Retrieval-Augmented Generation (RAG) pipelines, or crafting compelling visual stories.
+I am an AI/ML Engineer with a background in design and motion graphics. My work lies at the intersection of engineering and creativity-whether it's training predictive models, building Retrieval-Augmented Generation (RAG) pipelines, or crafting compelling visual stories.
 
 I enjoy developing practical AI systems that solve real problems, prioritizing elegant architecture and seamless user experiences.
 
