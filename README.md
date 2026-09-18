@@ -1,6 +1,6 @@
 <div align="center">
 
-# AYUSH
+# AYUSH SEN
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1500&color=00F0FF&center=true&vCenter=true&width=500&lines=AI%2FML+ENGINEER;DESIGNER;MOTION+GRAPHICS+EDITOR)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 
 <br>
 
-## 👨‍💻 About Me
+## About Me
 
 I am an AI/ML Engineer with a background in design and motion graphics. My work lies at the intersection of engineering and creativity—whether it's training predictive models, building Retrieval-Augmented Generation (RAG) pipelines, or crafting compelling visual stories.
 
@@ -24,7 +24,7 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 
 ---
 
-## 🚀 Currently Building
+## Currently Building
 
 *   **Machine Learning & Generative AI:** Engineering robust predictive models and working with cutting-edge GenAI.
 *   **LLM Applications & RAG:** Building context-aware systems using LangChain, LangGraph, and Agentic AI workflows.
@@ -32,7 +32,7 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   
@@ -68,7 +68,7 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyushSGO07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ayush's GitHub Stats" />
@@ -78,7 +78,7 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 | Project | Description | Technologies |
 |:---|:---|:---|
@@ -89,7 +89,7 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 
 ---
 
-## 🎨 Beyond Code
+## Beyond Code
 
 *Engineering is only one part of what I build.*
 
