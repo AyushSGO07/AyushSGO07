@@ -82,10 +82,10 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 
 | Project | Description | Technologies |
 |:---|:---|:---|
-| **[BookVerse]** | Production-grade Recommender System powered by Collaborative Filtering across 1.14M+ ratings with a modern glassmorphism UI. | `Python` `Flask` `Scikit-Learn` |
-| **[Car Price Predictor](https://github.com/AyushSGO07/Cars_Price)** | Machine learning web application to predict the accurate market value of used cars based on dynamic features. | `Python` `XGBoost` `Flask` |
-| **[Spam Classifier](https://github.com/AyushSGO07/Spam_Classifier)** | Natural Language Processing model to efficiently filter and classify SMS/Email spam using vectorized text data. | `NLP` `Scikit-Learn` `Pandas` |
-| **[Churn Predictor](https://github.com/AyushSGO07/Churn_Predictor)** | Data science pipeline modeling customer retention using advanced classification algorithms. | `Data Science` `Machine Learning` |
+| **BookVerse** | Production-grade Recommender System powered by Collaborative Filtering across 1.14M+ ratings with a modern glassmorphism UI. | `Python` `Flask` `Scikit-Learn` |
+| **Car Price Predictor** | Machine learning web application to predict the accurate market value of used cars based on dynamic features. | `Python` `XGBoost` `Flask` |
+| **Spam Classifier** | Natural Language Processing model to efficiently filter and classify SMS/Email spam using vectorized text data. | `NLP` `Scikit-Learn` `Pandas` |
+| **Churn Predictor** | Data science pipeline modeling customer retention using advanced classification algorithms. | `Data Science` `Machine Learning` |
 
 ---
 
