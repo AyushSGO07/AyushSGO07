@@ -2,7 +2,7 @@
 
 # AYUSH SEN
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1500&color=00F0FF&center=true&vCenter=true&width=500&lines=AI%2FML+ENGINEER;DESIGNER;MOTION+GRAPHICS+EDITOR)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1500&color=00ff00&center=true&vCenter=true&width=500&lines=AI%2FML+ENGINEER;DESIGNER;MOTION+GRAPHICS+EDITOR)](https://git.io/typing-svg)
 
 *Building intelligent systems. Designing experiences. Creating motion.*
 
