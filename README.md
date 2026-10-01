@@ -71,7 +71,7 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AyushSGO07&theme=microsoft-dark&hide_border=true&background=0D1117" alt="Ayush's GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com?user=AyushSGO07&theme=github-light&hide_border=true&background=0D1117" alt="Ayush's GitHub Contribution Streak" />
 
 </div>
 
