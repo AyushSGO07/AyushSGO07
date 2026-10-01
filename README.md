@@ -84,7 +84,7 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 | **BookVerse** | Production-grade Recommender System powered by Collaborative Filtering across 1.14M+ ratings with a modern glassmorphism UI. | `Python` `Flask` `Scikit-Learn` |
 | **Car Price Predictor** | Machine learning web application to predict the accurate market value of used cars based on dynamic features. | `Python` `XGBoost` `Flask` |
 | **Spam Classifier** | Natural Language Processing model to efficiently filter and classify SMS/Email spam using vectorized text data. | `NLP` `Scikit-Learn` `Pandas` |
-| **Churn Predictor** | Data science pipeline modeling customer retention using advanced classification algorithms. | `Data Science` `Machine Learning` |
+| **[Web Reader Extension](https://github.com/AyushSGO07/Web-Reader)** | Production-ready API, UI, and CLI application that summarizes web pages using LangChain and Google's Gemini models. | `Python` `FastAPI` `LangChain` |
 
 ---
 
