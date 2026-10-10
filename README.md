@@ -37,8 +37,9 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
   
 **Languages**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 **Machine Learning**<br>
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white)
@@ -47,15 +48,21 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 ![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=flat-square&logo=xgboost&logoColor=209E38)
 
 **AI / GenAI**<br>
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square&logo=openai&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-FF4F00?style=flat-square&logo=database&logoColor=white)
 
-**Development**<br>
+**Full-Stack & Development**<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **Creative**<br>
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
@@ -81,6 +88,7 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 
 | Project | Description | Technologies |
 |:---|:---|:---|
+| **[Game Finder](https://github.com/AyushSGO07/Game-Finder)** | Full-stack AI video game discovery engine & tracker featuring Gemini AI recommendations, Steam store integration, GOTY Hall of Fame, trailer streaming, and personal library backlog tracking. | `Next.js 15` `FastAPI` `Gemini AI` `TypeScript` `Supabase` |
 | **BookVerse** | Production-grade Recommender System powered by Collaborative Filtering across 1.14M+ ratings with a modern glassmorphism UI. | `Python` `Flask` `Scikit-Learn` |
 | **Car Price Predictor** | Machine learning web application to predict the accurate market value of used cars based on dynamic features. | `Python` `XGBoost` `Flask` |
 | **Game Finder** |beautiful, AI-powered Streamlit web application that acts as a personalized video game matchmaker. Enter your preferred genre, age rating, and difficulty level, and Game Finder leverages Gemini AI to recommend exactly 8 diverse, hand-picked games that fit your exact criteria. | `Prompt engineering` `API integration` `LLM-based recommendation generation` |
