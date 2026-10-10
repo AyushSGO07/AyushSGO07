@@ -91,7 +91,6 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 | **Game Finder** | Full-stack AI video game discovery engine & tracker featuring Gemini AI recommendations, Steam store integration, GOTY Hall of Fame, trailer streaming, and personal library backlog tracking. | `Next.js 15` `FastAPI` `Gemini AI` `TypeScript` `Supabase` |
 | **BookVerse** | Production-grade Recommender System powered by Collaborative Filtering across 1.14M+ ratings with a modern glassmorphism UI. | `Python` `Flask` `Scikit-Learn` |
 | **Car Price Predictor** | Machine learning web application to predict the accurate market value of used cars based on dynamic features. | `Python` `XGBoost` `Flask` |
-| **Game Finder** |beautiful, AI-powered Streamlit web application that acts as a personalized video game matchmaker. Enter your preferred genre, age rating, and difficulty level, and Game Finder leverages Gemini AI to recommend exactly 8 diverse, hand-picked games that fit your exact criteria. | `Prompt engineering` `API integration` `LLM-based recommendation generation` |
 | **Web Reader Extension** | Production-ready API, UI, and CLI application that summarizes web pages using LangChain and Google's Gemini models. | `Python` `FastAPI` `LangChain` |
 
 ---
