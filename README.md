@@ -108,9 +108,9 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 
 | Project | Description | Technologies |
 |:---|:---|:---|
-| **[Game Finder](https://github.com/AyushSGO07/Game-Finder)** | Full-stack AI video game discovery engine & tracker featuring Gemini AI recommendations, Steam store integration, GOTY Hall of Fame, trailer streaming, and personal library backlog tracking. | `Next.js 15` `FastAPI` `Gemini AI` `TypeScript` `Supabase` |
+| **[Game Finder]** | Full-stack AI video game discovery engine & tracker featuring Gemini AI recommendations, Steam store integration, GOTY Hall of Fame, trailer streaming, and personal library backlog tracking. | `Next.js 15` `FastAPI` `Gemini AI` `TypeScript` `Supabase` |
 | **BookVerse** | Production-grade Recommender System powered by Collaborative Filtering across 1.14M+ ratings with a modern glassmorphism UI. | `Python` `Flask` `Scikit-Learn` |
-| **[MediScript](https://github.com/AyushSGO07/MediScript)** | Evidence-backed medical device label verification & revision intelligence platform with deterministic rule evaluation, coordinate-linked findings, and regulatory audit dossiers. | `Python 3.11+` `FastAPI` `PyMuPDF` `React 18` `TypeScript` `Tailwind CSS` |
+| **[MediScript]** | Evidence-backed medical device label verification & revision intelligence platform with deterministic rule evaluation, coordinate-linked findings, and regulatory audit dossiers. | `Python 3.11+` `FastAPI` `PyMuPDF` `React 18` `TypeScript` `Tailwind CSS` |
 | **Web Reader Extension** | Production-ready API, UI, and CLI application that summarizes web pages using LangChain and Google's Gemini models. | `Python` `FastAPI` `LangChain` |
 
 ---
