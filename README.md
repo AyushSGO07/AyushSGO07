@@ -78,7 +78,27 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AyushSGO07&theme=github-light&hide_border=true&background=ffffff" alt="Ayush's GitHub Contribution Streak" />
+<!-- Streak Stats: Adaptive Dark/Light Mode with Asia/Kolkata timezone -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AyushSGO07&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AyushSGO07&theme=github-light&hide_border=true&timezone=Asia/Kolkata">
+  <img src="https://streak-stats.demolab.com?user=AyushSGO07&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" alt="Ayush's GitHub Contribution Streak" />
+</picture>
+
+<br><br>
+
+<!-- Overall GitHub Stats & Most Used Languages: Adaptive Dark/Light Mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AyushSGO07&show_icons=true&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AyushSGO07&show_icons=true&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushSGO07&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's GitHub Stats" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSGO07&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSGO07&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSGO07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</picture>
 
 </div>
 
@@ -88,9 +108,9 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 
 | Project | Description | Technologies |
 |:---|:---|:---|
-| **Game Finder** | Full-stack AI video game discovery engine & tracker featuring Gemini AI recommendations, Steam store integration, GOTY Hall of Fame, trailer streaming, and personal library backlog tracking. | `Next.js 15` `FastAPI` `Gemini AI` `TypeScript` `Supabase` |
+| **[Game Finder](https://github.com/AyushSGO07/Game-Finder)** | Full-stack AI video game discovery engine & tracker featuring Gemini AI recommendations, Steam store integration, GOTY Hall of Fame, trailer streaming, and personal library backlog tracking. | `Next.js 15` `FastAPI` `Gemini AI` `TypeScript` `Supabase` |
 | **BookVerse** | Production-grade Recommender System powered by Collaborative Filtering across 1.14M+ ratings with a modern glassmorphism UI. | `Python` `Flask` `Scikit-Learn` |
-| **MediScript** |Medical device packaging and labeling variants span numerous target markets, languages, and product SKUs. Manually cross-referencing parameters between ERP, PLM, and regulatory labeling systems creates critical risks of transcription errors, missed contraindications, omitted warnings, or revision drift across product lifecycle updates. | `Python 3.11+` `PyMuPDF` ` React 18` ` Tailwind CSS` |
+| **[MediScript](https://github.com/AyushSGO07/MediScript)** | Evidence-backed medical device label verification & revision intelligence platform with deterministic rule evaluation, coordinate-linked findings, and regulatory audit dossiers. | `Python 3.11+` `FastAPI` `PyMuPDF` `React 18` `TypeScript` `Tailwind CSS` |
 | **Web Reader Extension** | Production-ready API, UI, and CLI application that summarizes web pages using LangChain and Google's Gemini models. | `Python` `FastAPI` `LangChain` |
 
 ---
