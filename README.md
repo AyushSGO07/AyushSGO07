@@ -89,15 +89,15 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 
 <!-- Overall GitHub Stats & Most Used Languages: Adaptive Dark/Light Mode -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AyushSGO07&show_icons=true&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AyushSGO07&show_icons=true&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushSGO07&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=AyushSGO07&show_icons=true&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=AyushSGO07&show_icons=true&theme=default&hide_border=true">
+  <img src="https://github-stats-extended.vercel.app/api?username=AyushSGO07&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's GitHub Stats" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSGO07&layout=compact&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSGO07&layout=compact&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSGO07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AyushSGO07&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AyushSGO07&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AyushSGO07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </picture>
 
 </div>
