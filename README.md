@@ -109,7 +109,7 @@ I enjoy developing practical AI systems that solve real problems, prioritizing e
 | Project | Description | Technologies |
 |:---|:---|:---|
 | **Game Finder** | Full-stack AI video game discovery engine & tracker featuring Gemini AI recommendations, Steam store integration, GOTY Hall of Fame, trailer streaming, and personal library backlog tracking. | `Next.js 15` `FastAPI` `Gemini AI` `TypeScript` `Supabase` |
-| **BookVerse** | Production-grade Recommender System powered by Collaborative Filtering across 1.14M+ ratings with a modern glassmorphism UI. | `Python` `Flask` `Scikit-Learn` |
+| **Summarizer OP** |Summarizer OP is a full-stack AI-powered summarization and document intelligence platform designed to convert YouTube videos and uploaded documents into concise, structured, bilingual summaries. It combines LLM-based summarization, English-to-Hindi translation, information easier to understand. | `Python` `React` `TypeScript` `ChromaDB` `OpenAI Whisper` |
 | **MediScript** | Evidence-backed medical device label verification & revision intelligence platform with deterministic rule evaluation, coordinate-linked findings, and regulatory audit dossiers. | `Python 3.11+` `FastAPI` `PyMuPDF` `React 18` `TypeScript` `Tailwind CSS` |
 | **Web Reader Extension** | Production-ready API, UI, and CLI application that summarizes web pages using LangChain and Google's Gemini models. | `Python` `FastAPI` `LangChain` |
 
